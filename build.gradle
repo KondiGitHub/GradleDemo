@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+}
+
+
+task helloGradle << {
+    println 'Hello Gradle- This is your first script'
+}
